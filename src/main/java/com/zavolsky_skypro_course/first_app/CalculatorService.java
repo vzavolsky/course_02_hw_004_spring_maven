@@ -13,7 +13,7 @@ public class CalculatorService {
     }
 
     public String minus(int num1, int num2) {
-        return String.valueOf(num1 + num2);
+        return String.valueOf(num1 - num2);
     }
 
     public String multiply(int num1, int num2) {
